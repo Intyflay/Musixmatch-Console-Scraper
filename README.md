@@ -5,3 +5,4 @@ Copy paste main.js into the console while on the musixmatch song you wish to scr
 FOR EDUCATIONAL PURPOSES ONLY
 note:
 not even good for piracy, heavy modification would be needed for that.
+credit: podato for original python external version
